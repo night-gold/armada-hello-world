@@ -1,4 +1,6 @@
 ---
+kind: Kustomization
+apiVersion: kustomize.config.k8s.io/v1beta1
 # List of labels common to all resources for this deployment
 commonLabels:
   app: hello-world
@@ -6,3 +8,4 @@ commonLabels:
 resources:
 - deployment.yaml
 - service.yaml
+- configMap.yaml
