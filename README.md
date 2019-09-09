@@ -11,7 +11,7 @@ App:
 
 This package will create a deployment for the Hello World app with a service and an ingress.
 
-For more information about the hello world please have a look [here](https://hub.docker.com/_/hello-world)
+For more information about the hello world please have a look at the kustomize example : [here](https://github.com/kubernetes-sigs/kustomize/tree/master/examples/helloWorld)
 
 ## Prerequisites
 

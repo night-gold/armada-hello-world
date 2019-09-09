@@ -3,4 +3,5 @@ bases:
 - "../../base"
 patches:
 - ingress.yaml
+resources:
 - service.yaml
