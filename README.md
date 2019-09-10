@@ -2,7 +2,7 @@
 
 This package allows you to deploy the Hello World container to your cluster.
 
-## Version
+## Versions
 
 * Package: 1.0.1
 * App: [monopole/hello:1](https://hub.docker.com/r/monopole/hello)
